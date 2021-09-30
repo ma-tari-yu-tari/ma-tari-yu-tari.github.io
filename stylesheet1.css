@@ -1,0 +1,48 @@
+.container {
+    text-align: center;
+    padding: 0 200px;
+
+}
+
+header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.site-link ul {
+    display: flex;
+    list-style: none;
+}
+
+.site-link li {
+    margin-left: 20px;
+}
+
+main {
+    
+}
+
+.mainvisual {
+    background-image: url(../img/codestep入門編/mainvisual.jpg);
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+
+section .about {
+
+}
+
+section .bicycle {
+
+}
+
+footer {
+    height: 50px;
+}
+
+footer h3 {
+
+}
